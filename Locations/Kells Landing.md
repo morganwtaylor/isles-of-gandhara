@@ -1,0 +1,1 @@
+Initial city the party started in. Helmite guard patrols and much strife
