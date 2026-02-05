@@ -19,7 +19,7 @@ Players
 - 5-10 years the neighboring tribes and wants to bring them together?
 
 
-Paul
+Paul (Human, Druid)
 - 5'11 medium build man
 - Worn down leather robes
 - But still fully dressed with boots, pants, belt
