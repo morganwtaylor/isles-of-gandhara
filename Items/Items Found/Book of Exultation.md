@@ -23,7 +23,7 @@ The Book smells faintly of summer festivals and honey wine. It radiates warmth t
 
 ## Attunement
 
-The Book of Exultation can be attuned to by any creature with a Charisma of 13 or higher. Attunement requires reading aloud from the Book for 1 hour. During this hour, the reader experiences vivid emotional memories — not their own, but fragments of thousands of celebrations, dances, and moments of pure joy from across centuries of Lliiran worship.
+The Book of Exultation can be attuned to by any creature with a Wisdom of 16 or higher. Attunement requires reading aloud from the Book for 1 hour. During this hour, the reader experiences vivid emotional memories — not their own, but fragments of thousands of celebrations, dances, and moments of pure joy from across centuries of Lliiran worship.
 
 Upon attunement, the Book *knows* its wielder. Not consciously — but it resonates differently depending on the wielder's relationship with joy. A wielder consumed by guilt, despair, or deception finds fewer pages legible. A wielder who actively seeks and shares joy discovers passages that weren't visible before.
 

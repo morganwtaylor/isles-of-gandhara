@@ -387,14 +387,14 @@ Once four vales, now three. The fourth is a wound.
 ### The Southern Ports
 *Maritime trade, Accord enforcement, and the campaign's starting point.*
 
-| Settlement | Pop. | Description |
-|------------|------|-------------|
-| **Thornhaven** | ~7,000 | Shipbuilding center. Thornwood timber from Briarholt becomes vessels. Banite "observer" inspecting naval construction. |
-| **Kell's Landing** | ~8,000 | Trade hub. Unsleeping Bastion (Helmite chapterhouse). Tyrran courthouse. Campaign start. |
-| **Saltmere** | ~400 | Tidal community. Market forms at low tide, outside jurisdiction. Smugglers and undocumented trade. |
-| **Tidecrest** | ~1,500 | Fishing port and naval waystation. Polite to Helmite sailors. Quiet about everything else. |
-| **Anchor's Rest** | ~600 | Retired sailors. Good place to find someone who knows hidden coves. |
-| **The Widow's Reach** | ~30 | Peninsula lighthouse. Keeper dead six months. Light still burns. Investigators don't report back. |
+| Settlement            | Pop.   | Description                                                                                                            |
+| --------------------- | ------ | ---------------------------------------------------------------------------------------------------------------------- |
+| **Thornhaven**        | ~7,000 | Shipbuilding center. Thornwood timber from Briarholt becomes vessels. Banite "observer" inspecting naval construction. |
+| **Kell's Landing**    | ~8,000 | Trade hub. Unsleeping Bastion (Helmite chapterhouse). Tyrran courthouse. Campaign start.                               |
+| **Saltmere**          | ~400   | Tidal community. Market forms at low tide, outside jurisdiction. Smugglers and undocumented trade.                     |
+| **Tidecrest**         | ~1,500 | Fishing port and naval waystation. Polite to Helmite sailors. Quiet about everything else.                             |
+| **Anchor's Rest**     | ~600   | Retired sailors. Good place to find someone who knows hidden coves.                                                    |
+| **The Widow's Reach** | ~30    | Peninsula lighthouse. Keeper dead six months. Light still burns. Investigators don't report back.                      |
 
 **Key Locations in Kell's Landing:** The Unsleeping Bastion (Commander Serelith Vane, 40 Helmites), The Salt Court (Magistrate Aldwin Cross, weary justice), The Scaled Anchor (tavern, Gresh the half-orc sees everything), Harbormaster's Tower (Elena Wavecrest, takes bribes from the right people), The Nets (lower district, Three-Coin Mira's territory), Temple Row (approved temples, empty lot where Lliiran shrine stood), The Broken Tower (Ilmater sanctuary, underground, where Murdock swore his oath).
 
@@ -402,17 +402,17 @@ Once four vales, now three. The fourth is a wound.
 
 ## Travel Times
 
-| From | To | Method | Time |
-|------|-----|--------|------|
-| Kell's Landing | Accord's Rest | Road | 3-4 days |
-| Kell's Landing | Thornhaven | Road / Ship | 1-2 days / 6-8 hours |
-| Accord's Rest | Briarholt | Accord Road | 5-6 days |
-| Accord's Rest | Joybright | Road (officially closed) | 4-5 days |
-| Briarholt | Duncraig | Highland Track | 3-4 days |
-| Briarholt | Northern Rest | Trail | 7-10 days |
-| Ghandara | Sword Coast | Ship | 18-25 days |
-| Ghandara | Dunmara | Ship | 2-3 days |
-| Ghandara | Skerrad | Ship | 3-4 days |
+| From           | To               | Method                   | Time             |
+| -------------- | ---------------- | ------------------------ | ---------------- |
+| Kell's Landing | Accord's Rest    | Ship                     | 2 Weeks          |
+| Kell's Landing | Thornhaven       | Road / Ship              | 3 Weeks / 1 Week |
+| Accord's Rest  | Briarholt        | Accord Road              | 2 Weeks          |
+| Accord's Rest  | Joybright        | Ship (heavily monitored) | 2 -3 days        |
+| Briarholt      | Duncraig         | Highland Track           | 2 Weeks          |
+| Briarholt      | Northern Reaches | Trails                   | 3 Weeks          |
+| Ghandara       | Sword Coast      | Ship                     | 2 Months         |
+| Ghandara       | Dunmara          | Ship                     | 2-3 Weeks        |
+| Ghandara       | Skerrad          | Ship                     | 1-2 Weeks        |
 
 ## Roads and Routes
 

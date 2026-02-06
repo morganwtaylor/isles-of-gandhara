@@ -36,3 +36,12 @@ Karsa
 - High boots and blades in the boots the size of shortswords
 - Weathered sun scarred skin.
 - Long black single braded hair with bones in it.
+
+Water walt
+- Bull man
+- 525 punds
+- brown fur
+- horns
+- golden nose rings
+- wolf totems on his shoulders large
+- 
