@@ -60,9 +60,7 @@ Not with magic.
 
 The confrontation that followed was quiet but charged. Where do we go? What do we do? Marren had one answer: **Joybright**. The holy city. The pilgrimage that thirty refugees had risked everything to complete.
 
-The others weren't so certain. The city was destroyed. The Accord garrisoned the coast. Sailing there was suicide.
-
-"It's not destroyed," Marren said, with the absolute conviction of a man who'd spent ten years in a cell holding onto one truth. "It can't be."
+The others weren't so certain.
 
 He'd been in Accord's Rest when Lliira died. He'd been in chains when the sky broke. He never saw Joybright fall. In his mind, the city still stood — waiting for him, waiting for the Book, waiting to be made whole again.
 
@@ -76,19 +74,13 @@ They began to settle in.
 
 ## The Messenger
 
-Karsa sat alone on the forecastle when the messenger arrived.
+Karsa sat alone on the forecastle when the messenger arrived. He carried a sealed note and the easy confidence of someone who ran errands for dangerous men without understanding why.
 
-A boy. Couldn't have been older than twelve. He carried a sealed note and the easy confidence of someone who ran errands for dangerous men without understanding why.
-
-Karsa opened the note.
-
-Three words. A name. A number.
+Karsa opened the note and brazenly reads it aloud letting others hear it.
 
 **Kill Marren Brightwell. Three days.**
 
 The debt was called.
-
-Karsa stared at the paper until the words blurred. Then he folded it carefully and tucked it into his belt, next to the knife he'd used to defend Marren in the Golden Chain. The knife that still had the bard's blood on it.
 
 Three days.
 
@@ -98,7 +90,7 @@ Three days.
 
 Night fell over Thornhaven, and the ship became a world unto itself.
 
-Below deck, **Wolfric** settled into the main quarters and let his eyes close. He didn't mean to listen, but the sound found him anyway — **Marren**, sitting in the corner with Tessa, reading from the Book of Exultation. His voice was rough, unpracticed, stripped of any performance. Just a man speaking words he'd carried in his heart for twenty years.
+Below deck, **Wolfric** settled into the main quarters and let his eyes close. He didn't mean to listen, but the sound found him anyway, **Marren**, sitting in the corner with Tessa, reading from the Book of Exultation. His voice was rough, unpracticed, stripped of any performance. Just a man speaking words he'd carried in his heart for twenty years.
 
 The prayers were simple. The hymns were old.
 
@@ -126,7 +118,7 @@ Wolfric didn't have an answer for that. He wasn't sure one existed.
 
 While the ship settled into uneasy sleep, **Water Walt** and **Lil Moon** found each other on the upper deck.
 
-Two outsiders. The highland healer who'd come down from the mountains chasing questions about Death's Edge, and the moon-touched wanderer who'd been sitting in the dark with a flower that glowed.
+Two outsiders. The highland healer who'd come down from the mountains chasing questions, and the moon-touched wanderer who'd been sitting in the dark with a flower that glowed.
 
 They talked. About their lives. About the strange gravity that had pulled them both to this ship full of refugees sailing toward a ruin. About ordinary things that felt extraordinary when spoken under stars on borrowed time.
 
@@ -134,13 +126,7 @@ Then they talked about Karsa.
 
 Water Walt had seen the contract. Had been in the room when Tonyult smiled and Seraph enforced. He knew what was coming.
 
-"He has to kill Marren," Water Walt said. "Three days."
-
 Lil Moon looked toward the bow, where Karsa sat alone, silent and massive and wound tight as a crossbow.
-
-"Does he want to?" Lil Moon asked.
-
-Water Walt didn't answer. Some questions are too heavy for words.
 
 The night took them all eventually — even Karsa, whose sleep was more surrender than rest. The ship rocked gently in Thornhaven's harbor, carrying its cargo of the faithful and the frightened and the damned.
 
@@ -152,11 +138,11 @@ Morning would come whether they were ready or not.
 
 Dawn broke gray and salt-heavy. The ship cast off from Thornhaven with the tide, its sails catching a wind that tasted of distance and uncertainty.
 
-**Joybright.** The destination Marren had chosen for them all — a ruined holy city that he refused to believe was ruined. The refugees huddled below deck. Water Walt tended to minor wounds. Lil Moon stood at the rail and felt the Lastbloom pulse faintly against his chest.
+**Joybright.** The destination Marren had chosen for them all. The refugees huddled below deck. Water Walt tended to minor wounds. Lil Moon stood at the rail and felt the Lastbloom pulse faintly against his chest.
 
 They made it half a day.
 
-The Helmite cutter appeared on the horizon like a blade cutting the water — fast, lean, flying the Chains. Black, steel gray, crimson. The banner of the Divine Accord.
+The Helmite cutter appeared on the horizon like a blade cutting the water, fast, lean, flying the Chains. Black, steel gray, crimson. The banner of the Divine Accord.
 
 Tessa reacted immediately, ushering those from Kell's Landing below deck. "Hide. Now. Marren, *go.*" But not everyone chose to go. Some stayed. Some were tired of hiding.
 
@@ -164,7 +150,7 @@ The cutter pulled alongside. Its captain boarded — armored, professional, the 
 
 **Wolfric** didn't wait for the search.
 
-The paladin of Ilmater made a clear, deliberate move for his weapon, and everyone on both ships understood what that meant.
+The paladin of Ilmater made a clear, deliberate move shielding himself, and everyone on both ships understood what that meant.
 
 The decks erupted.
 
@@ -174,11 +160,11 @@ The decks erupted.
 
 Swords rang against shields. Crossbow bolts streaked across the gap between ships, punching into wood and flesh. The refugees screamed below deck, the sound muffled by timber and terror.
 
-The party fought desperately. Murdock struck fast and precise. Paul called on the wild. Lil Moon moved like the moon itself — strange, deliberate, powerful. Water Walt's healing kept broken bodies standing.
+The party fought desperately. Murdock struck fast and precise. Paul called on the wild. Lil Moon moved like the moon itself and transformed in a wolf, strange, deliberate, powerful. Water Walt's healing kept broken bodies standing.
 
-**Wolfric** fought like a man possessed — greataxe singing, shield slamming, every blow carrying the weight of every prayer he'd ever whispered to Ilmater. He cut through Helmites like grief through a funeral.
+**Wolfric** fought like a man possessed — greataxe singing, shield slamming, every blow carrying the weight of every prayer he'd ever whispered to Ilmater.
 
-Then a crossbow bolt found him.
+Then a crossbow bolt found him and blades struck.
 
 Wolfric went down. The deck was suddenly louder without his rage, emptier without his presence. Blood pooled around fallen steel.
 
@@ -186,31 +172,29 @@ They stabilized him. Barely. Water Walt's hands glowed with desperate power. But
 
 Then **Karsa** did something no one expected.
 
-He went below deck and dragged **Marren** up into the carnage.
+He was below deck and dragged **Marren** up into the carnage.
 
 ---
 
 ## The Pillar
 
-Marren Brightwell — prophet, prisoner, husband, stranger — was pulled into daylight and blood by the man contracted to kill him. His eyes went wide. The sounds of combat hit him like a wall.
+Marren Brightwell, prophet, prisoner, husband, stranger; was pulled into daylight and blood by the man contracted to kill him. His eyes went wide. The sounds of combat hit him like a wall.
 
 He was terrified.
 
 And in his terror, he did the only thing he knew how to do. He opened the Book of Exultation and he *read*.
 
-The words came out ragged, desperate, nothing like the calm prayers of the night before. This was faith stripped bare — not performance, not conviction, but *plea*. A man begging his dead goddess for one more miracle.
+The words came out ragged, desperate, nothing like the calm prayers of the night before. This was faith stripped bare, not performance, not conviction, but *plea*. A man begging his dead goddess for one more miracle.
 
 **A pillar of light struck the deck.**
 
-The radiance was blinding, indiscriminate, terrible and beautiful. It hit Helmite and refugee alike — an explosion of divine joy that didn't distinguish between friend and enemy because joy doesn't work that way. People staggered. People screamed. People fell to their knees.
+The radiance was blinding, indiscriminate, terrible and beautiful. It hit Helmite and party member alike. An explosion of divine joy that didn't distinguish between friend and enemy because joy doesn't work that way. People staggered. People screamed. People fell to their knees.
 
 The tide turned.
 
 The party rallied. Helmites thinned. Steel found gaps in armor. One by one, the Accord's soldiers fell.
 
 Marren, still clutching the Book, turned to Wolfric's broken body and poured everything he had left into healing. Not just enough. Far beyond enough. The light that flowed from his hands was golden and warm and carried the scent of summer festivals and honey wine.
-
-Wolfric gasped back to full consciousness, his wounds closing, his strength flooding back like a tide.
 
 Marren looked at him with eyes that said: *this is what I was always meant to do.*
 
@@ -224,7 +208,7 @@ But the day was not.
 
 It happened fast.
 
-Marren was still on his knees, the Book clutched to his chest, the afterglow of divine light fading from his hands. He'd given everything. Healed the fallen. Turned the tide. In that moment, he was exactly what everyone believed him to be — a prophet, a vessel, a man touched by something sacred and undeniable.
+Marren was still on his knees, the Book clutched to his chest, the afterglow of divine light fading from his hands. He'd given everything. Healed the fallen. Turned the tide. In that moment, he was exactly what everyone believed him to be, a prophet, a vessel, a man touched by something sacred and undeniable.
 
 **Karsa** stepped forward.
 
@@ -232,13 +216,13 @@ There was no hesitation. No speech. No final exchange of words between the man w
 
 One stroke. Clean. Professional. Final.
 
-**Marren Brightwell** — the real Lliiran priest, the genuine article, the man whose prayers still echoed in the Book he'd held — crumpled to the blood-soaked deck.
+**Marren Brightwell**, the real Lliiran priest, the genuine article, the man whose prayers still echoed in the Book he'd held, crumpled to the blood-soaked deck.
 
 Three days, Tonyult had said. Karsa finished in one.
 
-The silence that followed was absolute. Thirty refugees. Five adventurers. One healer. One killer. All standing on a deck painted in blood and sunlight, staring at the body of a man who had just saved them all.
+The silence that followed was absolute. Thirty refugees. Five adventurers. One healer. One killer. All standing on a deck painted in blood and sunlight.
 
-Tessa didn't scream. That was the worst part. She just... stopped. Like someone had reached inside her and turned something off. DaVonian tried to run to his father's body. Someone held him back. The boy made a sound that no one on that ship would ever forget.
+Tessa didn't scream. That was the worst part. She just... stopped. Like someone had reached inside her and turned something off.
 
 Karsa stood over the body. The contract was fulfilled. The debt was paid. And whatever humanity he had left was the price.
 
@@ -252,7 +236,7 @@ The Helmite cutter: empty, blood-stained, its crew dead or dying, the Chains han
 
 The refugee ship: crowded, broken, its people alive but shattered. A prophet's body cooling on the deck. A stolen Book now ownerless. A flower pulsing faintly in the dark below, held by a man who was only beginning to understand what he carried.
 
-Somewhere ahead, across the gray water, lay Joybright — a city of ruins that one dead man believed could still be saved.
+Somewhere ahead, across the gray water, lay Joybright. A city which fate has touched time and time again.
 
 Behind them, Thornhaven grew small against the horizon. Tonyult would be smiling. Seraph would be watching. The Compliance Ministry's sending stone had been silent for too long.
 
@@ -264,8 +248,4 @@ There was nothing left to say.
 
 *Two ships on the Mirthwater. One without a crew. The other with a crew that's broken.*
 
-*Joybright waits. It has been waiting for twenty-three years. It can wait a little longer.*
-
-*But the people on this ship cannot.*
-
----
+*Joybright waits. But the people on this ship cannot.*
